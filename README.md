@@ -3,7 +3,7 @@
 Herramienta para Windows que detecta, analiza y ayuda a actualizar los controladores (drivers) del sistema, priorizando la seguridad: crea un punto de restauración antes de instalar cualquier actualización y verifica el estado del dispositivo después de instalarla.
 
 ## Características
-
+<img src="image.png" width="600">
 - Escaneo de dispositivos y controladores del sistema.
 - Detección de controladores con actualización disponible mediante Windows Update.
 - Agrupación de dispositivos que comparten el mismo controlador (evita duplicados en la vista).
